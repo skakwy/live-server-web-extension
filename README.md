@@ -29,7 +29,7 @@ Neither the browser add-on nor the VS Code extension will host a server for: `PH
 
 * Chrome : https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj/
 * Firefox : https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/ 
-
+* Safari : enable developer tools in safari -> develop menu -> click allow unsigned extension (you have to do that everytime you restart safari) -> now just open the app and enable it in settings
 <br><hr>
 
 ### News
